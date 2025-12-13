@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Runaway Baby",
+  "base_artist": "Bruno Mars",
+  "createdAt": "2025-12-13T11:40:55.767669Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Runaway Baby",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/01_Runaway_Baby_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Runaway Baby",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/02_Runaway_Baby_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Runaway Baby",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/03_Runaway_Baby_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Runaway Baby",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/04_Runaway_Baby_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Runaway Baby",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/05_Runaway_Baby_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Runaway Baby",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/06_Runaway_Baby_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Runaway Baby",
+      "artist": "Juan Karlos Labajo",
+      "has_synced": true,
+      "path": "select/07_Runaway_Baby_Juan_Karlos_Labajo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Runaway Baby",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/08_Runaway_Baby_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Runaway Baby",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/09_Runaway_Baby_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bruno Mars - Runaway Baby (Official Lyric Video)",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/10_Bruno_Mars_-_Runaway_Baby_(Official_Lyric_Video)_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Runaway Baby",
+      "artist": "juan karlos",
+      "has_synced": true,
+      "path": "select/11_Runaway_Baby_juan_karlos.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bruno Mars - Runaway Baby (Official Lyric Video)",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/12_Bruno_Mars_-_Runaway_Baby_(Official_Lyric_Video)_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Runaway Baby",
+      "artist": "NOVUL",
+      "has_synced": true,
+      "path": "select/13_Runaway_Baby_NOVUL.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Runaway Baby (2012) [www.MusicDL.me]",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/14_Runaway_Baby_(2012)_[www.MusicDL.me]_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "04 Runaway Baby",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/15_04_Runaway_Baby_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Runaway Baby",
+      "artist": "ブルーノ・マーズ",
+      "has_synced": true,
+      "path": "select/16_Runaway_Baby_ブルーノ・マーズ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Runaway Baby",
+      "artist": "Bruno Mars",
+      "has_synced": false,
+      "path": "select/pl_01_Runaway_Baby_Bruno_Mars.txt"
+    }
+  ]
+}
